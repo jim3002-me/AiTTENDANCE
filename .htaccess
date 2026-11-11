@@ -1,0 +1,7 @@
+Options -Indexes
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteRule ^(?:app|database|scripts)(?:/|$) - [F,END,NC]
+    RewriteRule ^(?:README\.md|SIA1manuscript\.docx|Flag_of_Margosatubig,_Zamboanga_del_Sur\.png|images\.jpg)$ - [F,END,NC]
+</IfModule>
