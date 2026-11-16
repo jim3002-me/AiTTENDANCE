@@ -1,0 +1,3 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Access denied</title><link rel="stylesheet" href="assets/app.css"></head>
+<body><main class="message-page"><h1>Access denied</h1><p>Your account does not have permission to view this page.</p><a href="index.php?action=dashboard">Return to dashboard</a></main></body></html>
